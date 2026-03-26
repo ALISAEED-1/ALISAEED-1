@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ali Saeed 👋
 
-<!--
-**ALISAEED-1/ALISAEED-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student @ Arid Agriculture University, Rawalpindi  
+Building things with C#, C++,Java script, Flutter 
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🛒 Karyana Store — A full-stack grocery management solution built with Flutter and Firebase
+- 📰 Newzler — A modern frontend news application developed in Flutter, focusing on clean UI/UX
+- 🎬 StreamGlass — a Netflix-style streaming platform (HTML/CSS/JS)
+- 💰 Personal Finance Dashboard — C++ with binary file storage
+- 📚 Currently learning: Flutter & Dart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Languages:** C# · C++ · JavaScript · Dart .HTML . CSS 
+**Tools:** SQL Server · .NET · Git · Visual Studio  
+**Interests:** Full-stack development · Mobile apps
+
+## Connect
+📧 alisaeed795555@gmail.com
